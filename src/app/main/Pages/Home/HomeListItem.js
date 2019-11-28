@@ -139,7 +139,7 @@ class HomeListItem extends Component {
                                                     <div className="grid">
                                                         <figure className={classes.imgCover+ " effect-bubba"} style={{backgroundImage: 'url('+item.assetList[0].name+')'}}>
                                                             <figcaption>
-                                                                <h2>{item.title} <span>Zoe</span></h2>
+                                                                <h2>{item.title}</h2>
                                                                 <p className="description">{item.description}</p>
                                                             </figcaption>			
                                                         </figure>
