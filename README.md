@@ -4,6 +4,8 @@ Good View listing app!
 
 To install Node Modules First Run:
 
+Easy to connect your blog posts or fast and great start for your portfolios
+
 ### `yarn`
 
 In the project directory, you can run:
